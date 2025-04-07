@@ -1,0 +1,3 @@
+﻿  Massive2.cpp
+C:\Users\PC\OneDrive\Desktop\C++\Massive2\Massive2.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\OneDrive\Desktop\C++\Massive2\Massive2.cpp(17,12): error C1075: '{': no matching token found
